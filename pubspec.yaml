@@ -1,7 +1,8 @@
 name: flutter_qr_render_v2
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://www.instagram.com/code.r17
+repository: https://github.com/DobelD/flutter_qr_render_v2.git
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
